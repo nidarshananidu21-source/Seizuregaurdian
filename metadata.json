@@ -1,0 +1,6 @@
+{
+  "name": "Seizure Guardian",
+  "description": "Companion app for ESP32 wearable seizure detection over BLE with real-time alerts, siren override, auto-maps navigation, and Firebase storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
